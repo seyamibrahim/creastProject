@@ -1,0 +1,21 @@
+
+.btnn{
+    /* border : 2px solid rgb(255, 16, 16); */
+    outline: none;
+    color: black;
+    border-radius: 25px;
+    background-color:rgba(255, 255, 255, 1);
+    height: 52px;
+    width: 198px;
+
+
+    /* background-color: red; */
+}
+
+
+.btnn:hover{
+    
+    text-shadow: 0px 0px 0px rgba(255, 255, 255, 1);
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;
+    
+}
