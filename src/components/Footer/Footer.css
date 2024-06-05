@@ -1,0 +1,12 @@
+.n-um{
+
+    background: linear-gradient(to bottom right, #edca8e, rgb(243, 146, 162), rgb(169, 68, 241));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+}
+.l-ine{
+    background: linear-gradient(to bottom right, #edca8e, rgb(243, 146, 162), rgb(169, 68, 241));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
